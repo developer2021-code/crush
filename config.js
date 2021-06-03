@@ -2,8 +2,6 @@ const CONFIG = {
     introTitle: 'Hợp à !',
     introDesc: `Anh yêu em bao lâu thật ra không cần thiết,
      anh yêu em ra sao người ta không cần biết.
-    Anh yêu vì mắt môi, yêu vì tiếng cười và
-    yêu trong suy tư, nhiều hơn trong ngòi viết. 
     Anh thì không biết nói những lời hoa mỹ, anh chỉ có sự chân thành.`,
     btnIntro: 'hihi. Em nhấn nút này đi!',
     title: 'Em biết anh thích em mà đúng không?',
