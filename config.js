@@ -1,10 +1,10 @@
 const CONFIG = {
     introTitle: 'Hợp à !',
-    introDesc: `Trái đất vốn lạ thường,
-     mà sao anh cứ đi nhầm đường.
-    Lạc vào tim em lẻ loi,
-     đằng sau chữ yêu đây là thương.`,
-    btnIntro: 'Nhấn nút này nè!',
+    introDesc: `Anh yêu em bao lâu thật ra không cần thiết,
+     anh yêu em ra sao người ta không cần biết.
+    Anh yêu vì mắt môi, yêu vì tiếng cười và
+    yêu trong suy tư, nhiều hơn trong ngòi viết.`,
+    btnIntro: 'hihi. Nhấn nút này nè!',
     title: 'Em biết anh thích em mà đúng không?',
     desc: 'Và anh nghĩ em cũng dị đúng không?',
     btnYes: 'Đúng vậy <3',
