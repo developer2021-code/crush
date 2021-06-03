@@ -4,16 +4,16 @@ const CONFIG = {
     Mà sao anh cứ đi nhầm đường
     Lạc vào tim em lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Đúng vậy <33',
+    btnIntro: 'Nhấn nút này nè!',
+    title: 'Em biết anh thích em mà đúng không?',
+    desc: 'Và anh nghĩ em cũng dị đúng không?',
+    btnYes: 'Đúng vậy <3',
     btnNo: 'Không, Anh Tý :3',
     question:'Em nói gì với anh đi',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi anh tý',
     reply: 'Em cũng thích anh!',
     mess: 'Anh biết mà kkk',
-    messDesc: 'Vậy mình quen nhau á nhen',
+    messDesc: 'Dị em làm người yêu anh nha!',
     btnAccept: 'Ok anh tý <3',
     messLink: 'https://www.facebook.com/profile.php?id=100032387551149' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
