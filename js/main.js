@@ -103,7 +103,7 @@ $('#yes').click(function() {
         html: true,
         width: 900,
         padding: '3em',
-        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Em ghi gì cũng được, đừng để trống nha!'>",
+        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Đừng để trống nha!'>",
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
