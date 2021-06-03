@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Anh yêu em bao lâu thật ra không cần thiết,
      anh yêu em ra sao người ta không cần biết.
     Anh thì không biết nói những lời hoa mỹ, anh chỉ có sự chân thành.`,
-    btnIntro: 'hihi. Em nhấn nút này đi!',
+    btnIntro: 'Em đang cười anh hả! Nhấn nút này đi!',
     title: 'Em biết anh thích em mà đúng không?',
     desc: 'Và anh nghĩ em cũng dị hặm :D ?',
     btnYes: 'Đúng vậy <3',
