@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Em nói gì với anh đi',
     btnReply: 'Gửi anh tý',
     reply: 'Em cũng thích anh!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!',
-    mess: 'Anh biết mà kkk',
-    messDesc: 'Dị em làm người yêu anh nha!',
+    mess: 'Anh biết mà haha',
+    messDesc: 'Cho phép anh được quan tâm em mỗi ngày nha!',
     btnAccept: 'Ok luôn <3',
     messLink: 'https://www.youtube.com/watch?v=vDfkqjhtiCM' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
